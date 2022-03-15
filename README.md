@@ -1,3 +1,3 @@
-# MDF-PS
+# MDPS
 
 The code will be online soon!
