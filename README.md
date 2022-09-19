@@ -1,6 +1,6 @@
 # MDPS
 
-Congratulations, this paper has been accepted by ICME2022 conference!
+Congratulations, this paper has been published by ICME2022 conference!
 
 The MDPS method is very simple, and the code of MDPS (tensorflow) is given, I'm sorry that my code is not very standard, please understand.
 
